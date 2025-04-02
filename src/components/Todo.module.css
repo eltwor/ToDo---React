@@ -1,0 +1,12 @@
+ul {
+    list-style-type:none;
+}
+
+.completed {
+    text-decoration:line-through;
+    opacity: 0.3;
+}
+.uncompleted {
+    text-decoration: none;
+    opacity: 1;
+}
